@@ -1,0 +1,15 @@
+---
+title: "TESIS"
+author: "Erik Vilchez"
+format:
+  html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   number-sections: true
+   output-file: index
+   theme: darkly
+editor_options: 
+  chunk_output_type: console
+---
+
