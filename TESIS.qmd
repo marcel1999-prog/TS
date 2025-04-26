@@ -1,5 +1,5 @@
 ---
-title: "TESIS"
+title: "PROYECTO DE TESIS"
 author: "Erik Vilchez"
 format:
   html:
@@ -9,7 +9,38 @@ format:
    number-sections: true
    output-file: index
    theme: darkly
+   css: estilo.css
 editor_options: 
   chunk_output_type: console
 ---
+
+# **TITULO**
+
+DIVERSIDAD DE HONGOS MICORRICICOS ARBUSCULARES EN ESPECIES DE CUCURBITACEAS EN LA REGION AMAZONAS
+
+# **PROBLEMA**
+
+¿Cuáles son las especies de hongos micorrícicos arbusculares presentes en la rizosfera de las cucurbitáceas **Cucurbita ficifolia** y **Cucurbita moschata** en la región Amazonas?
+
+# **OBJETIVOS**
+
+## **Objetivo general**
+
+Evaluar la diversidad de especies de micorrizas arbusculares en especies de cucurbita ficifolia (Chiclayo) y Cucurbita moschata (Cushes) en la región Amazonas
+
+## **Objetivos específicos**
+
+- Determinar la morfología y colonización de hongos micorrícicos en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushés) en la región Amazonas.
+- Analizar el ADN genómico de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushes) en la región Amazonas.
+- Determinar la diversidad genética de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushes) en la región Amazonas.
+
+
+
+
+
+
+
+
+
+
 
