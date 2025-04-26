@@ -20,7 +20,7 @@ DIVERSIDAD DE HONGOS MICORRICICOS ARBUSCULARES EN ESPECIES DE CUCURBITACEAS EN L
 
 # **PROBLEMA**
 
-¿Cuáles son las especies de hongos micorrícicos arbusculares presentes en la rizosfera de las cucurbitáceas **Cucurbita ficifolia** y **Cucurbita moschata** en la región Amazonas?
+¿Cuáles son las especies de hongos micorrícicos arbusculares presentes en la rizosfera de las cucurbitáceas *Cucurbita ficifolia* y *Cucurbita moschata* en la región Amazonas?
 
 # **OBJETIVOS**
 
@@ -30,9 +30,9 @@ Evaluar la diversidad de especies de micorrizas arbusculares en especies de cucu
 
 ## **Objetivos específicos**
 
-- Determinar la morfología y colonización de hongos micorrícicos en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushés) en la región Amazonas.
-- Analizar el ADN genómico de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushes) en la región Amazonas.
-- Determinar la diversidad genética de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de **cucúrbita ficifolia** (Chiclayo) y **Cucúrbita moschata** (Cushes) en la región Amazonas.
+- Determinar la morfología y colonización de hongos micorrícicos en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushés) en la región Amazonas.
+- Analizar el ADN genómico de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushes) en la región Amazonas.
+- Determinar la diversidad genética de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushes) en la región Amazonas.
 
 
 
