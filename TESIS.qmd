@@ -18,7 +18,14 @@ editor_options:
 
 DIVERSIDAD DE HONGOS MICORRICICOS ARBUSCULARES EN ESPECIES DE CUCURBITACEAS EN LA REGION AMAZONAS
 
-# **PROBLEMA**
+# FORMULACION DEL PROBLEMA
+
+En la región Amazonas, los cultivos de cucurbitáceas como Cucurbita ficifolia (Chiclayo) y Cucurbita moschata (Cushes) enfrentan desafíos significativos debido a condiciones edafoclimáticas adversas, como suelos de baja fertilidad, sequía y salinidad. Estas condiciones limitan la productividad y sostenibilidad de los cultivos. Diversos estudios han demostrado que los hongos micorrícicos arbusculares (HMA) pueden desempeñar un papel crucial en la adaptación de las plantas a estos entornos hostiles, mejorando la absorción de nutrientes esenciales como fósforo y nitrógeno, y aumentando la tolerancia al estrés abiótico (Esquivel-Quispe, 2020; Gadea & Peña, 2013).
+Se ha observado, por ejemplo, que la simbiosis entre HMA y cultivos como el maíz y el frijol mejora la resistencia al estrés ambiental, aumenta la disponibilidad de fósforo y puede incluso conferir cierta protección frente a enfermedades del suelo (Esquivel-Quispe, 2020). Así mismo, investigaciones sobre cucurbitáceas han mostrado que esta simbiosis también podría beneficiar significativamente a especies como Cucurbita pepo, evidenciando la necesidad de estudios específicos para otras especies del género en contextos diversos como el andino y el amazónico (Lara-Capistrán et al., 2021).
+Sin embargo, hay una limitada caracterización de la diversidad morfológica y genética de los HMA. Esta falta de información impide aprovechar plenamente sus beneficios agronómicos y ecológicos. Además, se desconoce si estas asociaciones simbióticas presentan una especialización relacionada con factores ambientales o genéticos de las plantas hospedantes. 
+En este contexto, surge la necesidad de evaluar la diversidad de los HMA presentes en las raíces de C. ficifolia y C. moschata en la región Amazonas, considerando tanto sus características morfológicas como su diversidad genética. 
+
+# PREGUNTA DEL PROBLEMA
 
 ¿Cuáles son las especies de hongos micorrícicos arbusculares presentes en la rizosfera de las cucurbitáceas *Cucurbita ficifolia* y *Cucurbita moschata* en la región Amazonas?
 
