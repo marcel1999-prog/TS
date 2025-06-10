@@ -16,43 +16,165 @@ editor_options:
 
 # **TITULO**
 
-DIVERSIDAD DE HONGOS MICORRICICOS ARBUSCULARES EN ESPECIES DE CUCURBITACEAS EN LA REGION AMAZONAS
+HONGOS MICORRÍZICOS ARBUSCULARES EN ESPECIES DEL GÉNERO CUCÚRBITA EN LA REGIÓN AMAZONAS
 
 # FORMULACION DEL PROBLEMA
 
-En la región Amazonas, los cultivos de cucurbitáceas como Cucurbita ficifolia (Chiclayo) y Cucurbita moschata (Cushes) enfrentan desafíos significativos debido a condiciones edafoclimáticas adversas, como suelos de baja fertilidad, sequía y salinidad. Estas condiciones limitan la productividad y sostenibilidad de los cultivos. Diversos estudios han demostrado que los hongos micorrícicos arbusculares (HMA) pueden desempeñar un papel crucial en la adaptación de las plantas a estos entornos hostiles, mejorando la absorción de nutrientes esenciales como fósforo y nitrógeno, y aumentando la tolerancia al estrés abiótico (Esquivel-Quispe, 2020; Gadea & Peña, 2013).
-Se ha observado, por ejemplo, que la simbiosis entre HMA y cultivos como el maíz y el frijol mejora la resistencia al estrés ambiental, aumenta la disponibilidad de fósforo y puede incluso conferir cierta protección frente a enfermedades del suelo (Esquivel-Quispe, 2020). Así mismo, investigaciones sobre cucurbitáceas han mostrado que esta simbiosis también podría beneficiar significativamente a especies como Cucurbita pepo, evidenciando la necesidad de estudios específicos para otras especies del género en contextos diversos como el andino y el amazónico (Lara-Capistrán et al., 2021).
-Sin embargo, hay una limitada caracterización de la diversidad morfológica y genética de los HMA. Esta falta de información impide aprovechar plenamente sus beneficios agronómicos y ecológicos. Además, se desconoce si estas asociaciones simbióticas presentan una especialización relacionada con factores ambientales o genéticos de las plantas hospedantes. 
-En este contexto, surge la necesidad de evaluar la diversidad de los HMA presentes en las raíces de C. ficifolia y C. moschata en la región Amazonas, considerando tanto sus características morfológicas como su diversidad genética. 
+En la región Amazonas, los cultivos de cucurbitáceas como Cucurbita ficifolia (Chiclayo) y Cucurbita moschata (Cushes) enfrentan desafíos significativos debido a condiciones edafoclimáticas adversas, como suelos de baja fertilidad, sequía y salinidad. Estas condiciones limitan la productividad y sostenibilidad de los cultivos. Diversos estudios han demostrado que los hongos micorrícicos arbusculares (HMA) pueden desempeñar un papel crucial en la adaptación de las plantas a estos entornos hostiles, mejorando la absorción de nutrientes esenciales como fósforo y nitrógeno, y aumentando la tolerancia al estrés abiótico (Esquivel-Quispe, 2020; Gadea & Peña, 2013). Se ha observado, por ejemplo, que la simbiosis entre HMA y cultivos como el maíz y el frijol mejora la resistencia al estrés ambiental, aumenta la disponibilidad de fósforo y puede incluso conferir cierta protección frente a enfermedades del suelo (Esquivel-Quispe, 2020). Así mismo, investigaciones sobre cucurbitáceas han mostrado que esta simbiosis también podría beneficiar significativamente a especies como Cucurbita pepo, evidenciando la necesidad de estudios específicos para otras especies del género en contextos diversos como el andino y el amazónico (Lara-Capistrán et al., 2021). Sin embargo, hay una limitada caracterización de la diversidad morfológica y genética de los HMA. Esta falta de información impide aprovechar plenamente sus beneficios agronómicos y ecológicos. Además, se desconoce si estas asociaciones simbióticas presentan una especialización relacionada con factores ambientales o genéticos de las plantas hospedantes. En este contexto, surge la necesidad de evaluar la diversidad de los HMA presentes en las raíces de C. ficifolia y C. moschata en la región Amazonas, considerando tanto sus características morfológicas como su diversidad genética.
 
 # PREGUNTA DEL PROBLEMA
 
-¿Cuáles son las especies de hongos micorrícicos arbusculares presentes en la rizosfera de las cucurbitáceas *Cucurbita ficifolia* y *Cucurbita moschata* en la región Amazonas?
+¿Cuáles son las especies de hongos micorrízicos arbusculares presentes en la rizosfera de *Cucurbita ficifolia* y *Cucurbita moschata* en la región Amazonas? 
 
 # **OBJETIVOS**
 
 ## **Objetivo general**
 
-Evaluar la diversidad de especies de micorrizas arbusculares en especies de cucurbita ficifolia (Chiclayo) y Cucurbita moschata (Cushes) en la región Amazonas
+Determinar la diversidad de especies de hongos micorrízicos en la rizosfera de *Cucurbita ficifolia* (Chiclayo) y *Cucurbita moschata* (Cuches) en la región Amazonas.
 
 ## **Objetivos específicos**
 
-- Determinar la morfología y colonización de hongos micorrícicos en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushés) en la región Amazonas.
-- Analizar el ADN genómico de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushes) en la región Amazonas.
-- Determinar la diversidad genética de micorrizas arbusculares asociadas a la colonización micorrícica en las especies de *cucúrbita ficifolia* (Chiclayo) y *Cucúrbita moschata* (Cushes) en la región Amazonas.
+- Caracterizar la morfología de hongos micorrízicos arbusculares presentes en la rizosfera de *Cucurbita ficifolia* (Chiclayo) y *Cucurbita moschata* (Cushes) en la región Amazonas. 
+- Analizar el ADN genómico de hongos micorrízicos arbusculares presentes en las raíces de especies de *Cucurbita ficifolia* y *Cucurbita moschata* (Cushes) en la región Amazonas. 
+- Integrar abordajes morfológicos y moleculares para la identificación de especies de hongos micorrízicos arbusculares presentes en la rizosfera de *Cucurbita ficifolia* y *Cucurbita moschata* en la región Amazonas.
+
+# Antecedentes de la investigación
+
+Estudios realizados por Lu et al., (2023), destacan la función de las micorrizas arbusculares como indicadores de biodiversidad en diferentes ecosistemas, mejorando y ayudando a que las plantas que realizan simbiosis con estos hongos puedan soportar condiciones ambientales extremas como la sequía. Esto resulta particularmente relevante para cultivos del género Cucurbita, que podrían beneficiarse de esta simbiosis para aumentar su adaptabilidad y resiliencia en suelos difíciles.
+
+Ahammed & Hajiboland, (2024), también mencionan la importancia de las micorrizas arbusculares en cuanto a la resistencia al estrés abiótico de las plantas, como la sequía y la salinidad. El uso de estos hongos micorrícicos en cultivos de cucurbitáceas puede incrementar la resistencia y adaptabilidad en suelos áridos o con baja fertilidad.
+
+Smith, (2009), realizó estudios donde demostró que dentro de los beneficios que brindan los hongos micorrícicos a las plantas está la absorción de nutrientes en suelos con baja fertilidad, como el fósforo y el nitrógeno en diversas especies de cultivos. En el Perú se estudiaron la adaptación de Cucurbita ficifolia en tierras altas, donde la adaptabilidad de la especie está relacionada con las condiciones ambientales. La investigación realizada por Aguirre-Dugua et al., (2023),sugiere que la simbiosis con hongos micorrícicos es clave para la adaptación de Cucurbita ficifolia en condiciones de climas andinos y amazónicos.
+Los estudios sobre interacción micorrícica en cultivos de maíz y frijol en la región andina, indican que estos hongos mejoran significativamente el crecimiento de las plantas, resaltando la importancia en la disponibilidad y la absorción de fósforo, se puede resaltar que la inoculación de micorrizas en especial las arbusculares y locales de la zonas donde se realizó la investigación, pueden conferir resistencias a enfermedades del suelo y contribuir a una mejor producción agrícola (Esquivel-Quispe, 2020).
+
+Asimismo, Aguila et al., (2022) demostraron que la diversidad filogenética de los hongos micorrízicos arbusculares (HMA) en sistemas agroforestales aumenta con la edad del cultivo, lo que sugiere una sucesión ecológica positiva en la comunidad fúngica. Si bien sus estudios se centraron en Coffea arabica, los resultados refuerzan la hipótesis de que la simbiosis micorrízica puede evolucionar favorablemente con el tiempo y contribuir a la estabilidad y funcionalidad del suelo en diversos sistemas agrícolas, incluyendo cultivos del género Cucurbita. Esta dinámica sucesional podría aprovecharse en cultivos perennes o rotacionales en zonas de borde forestal y regiones andinas.
+
+Por otro lado, Wang et al., (2023) explican que las prácticas agrícolas sostenidas influyen directamente en la estructura funcional de las comunidades micorrízicas, lo que puede tener efectos positivos o negativos en la eficiencia del uso de nutrientes y la resistencia a condiciones de estrés ambiental. La selección y el manejo adecuados de los HMA, especialmente en suelos con limitaciones físicas o químicas, como los que se encuentran en algunas zonas de la región amazónica, pueden fomentar la simbiosis con especies locales de Cucurbita, promoviendo una agricultura más sostenible y resiliente.
+
+Finalmente, otros estudios que también han identificado géneros dominantes como Glomus y Acaulospora en ecosistemas tropicales y subtropicales con diversas condiciones edáficas (Corazon-Guivin et al., 2019), lo que destaca la importancia de caracterizar las especies fúngicas presentes en cada agroecosistema. Esto es esencial para diseñar estrategias de inoculación micorrízica adaptadas a los contextos locales, especialmente en zonas que buscan mejorar la productividad agrícola sin comprometer la salud del suelo.
+
+# Hipótesis
+
+Existe una diversidad de especies de hongos micorrízicos arbusculares presentes en la rizosfera de Cucurbita fiscifolia (Chiclayo) y Cucurbita moschata (Cushes) en la región Amazonas
+
+# Metodología 
+
+## Población, muestra y muestreo
+
+### Población
+
+La población estará conformada por las accesiones establecidas en la parcela de la Estación Experimental La Magdalena, correspondiente a las especies de Cucurbita ficifolia y Cucurbita moschata. 
+
+### Muestra
+
+La muestra estará determinada por una planta de cada especie de Cucurbita ficifolia y Cucurbita moschata. 
+
+### Muestreo 
+
+El muestreo en esta investigación será probabilístico completamente al azar. Esto implica que las plantas serán seleccionadas de manera aleatoria, sin un orden preestablecido ni criterios específicos que guíen la elección de estas.
+
+## Variables de estudio
+
+### Variables morfológicas
+
+- Caracterización morfológica.
+- Frecuencia de esporas.
+- Colonización micorrícica.
+- Longitud de micelio extraradical.
+
+### Variable molecular
+
+Evaluación  de secuencias (variantes nucleotídicas).
+
+## Métodos
+
+### Diseño de la investigación
+
+Por la naturaleza de la investigación de carácter descriptivo, el proyecto de investigación no posee un diseño de investigación paramétrico.
+
+### Técnicas e instrumentos
+
+**Análisis morfológico**
+
+Para los análisis morfológicos de esporas de Hongos Micorrízicos Arbusculares (HMA), estos se realizarán de acuerdo a lo reportado por Corazon-Guivin et al., (2021). Las muestras de suelo rizosférico serán tamizadas de acuerdo a lo establecido por Sieverding, (1991); de igual manera, las características morfológicas de las esporas y sus estructuras subcelulares se realizarán mediante la observación de estructuras montados en polyvinyl alcohol‐lactic acid‐glycerol PVLG (Koske y Tessier, 1983), reactivo de Melzer y una mezcla ambos: PVLG y reactivo de Melzer (Brundrett et al., 1994). La caracterización de estructuras se realizarán de acuerdo a los establecido por Błaszkowski (2012). 
+
+**Colonización micorrízica**
+
+Para la evaluación de la colonización micorrícica en las raíces se seguirá la metodología usada por Pineda-Lázaro et al., (2024) que siguió la metodología propuesta por Vierheilig et al., (1998). La cual consiste en teñir 5 gramos de las raíces y cortar en segmentos de 1 cm para ser observados en un microscopio compuesto (20x) mediante el método de intersección (McGONIGLE et al., 1990). 
+
+**Densidad de esporas**
+
+Se tomará muestras de 10 gramos de suelo y se añadirá 20 mL de peróxido de hidrógeno al 5%, continuando con una agitación a cada 3 minutos durante 15 minutos. Luego se realizará el tamizado de muestras usando tamices de 258 y 38 µm. Se seguirá con el proceso haciendo la extracción de las esporas usando una gradiente de centrifugación con sacarosa al 80 % durante 3 minutos hasta retirar la sacarosa y depositarlo en papel filtro con el fin de realizar el conteo de esporas presentes, se medirá en número de esporas por gramo de suelo seco (Pérez C & Peroza C, 2013; Restrepo Giraldo et al., 2019).
+
+**Longitud de micelio**
+
+Se realizará mediante la metodología empleada por Sánchez et al., (2023), mediante la toma de una muestra de 15 gramos de suelo en un beaker con 250 mL de agua desionizada y 31 mL de hexametafosfato de sodio por 12 horas, la muestra se dispersará en un agitador y se tomará seis alícuotas de 1 mL mezcladas con 250 mL de agua destilada y 35 mL de hexametafosfato de sodio, se filtrará cuatro alícuotas de 5 mL por membrana y se adicionará tinta negra en vinagre por diez minutos. Posteriormente se medirá la longitud de micelio por medio del método de (Tennant, 1975). 
+ 
+**Donde:**
+
+H: longitud total de hifas sobre área de filtro cubierta por 70 campos leídos.
+
+CA: área del filtro cubierta por 70 campos leídos.
+
+FA: área neta de filtrado (210 mm2). 
+
+**Caracterización molecular**
+
+Se extraerá ADN genómico (ADNg) de 50 mg de raíces por accesión mediante el método CTAB (Cetyltrimethylammonium Bromide). Se realizarán dos amplificaciones por PCR consecutivas para identificar un fragmento de ~1500 pb de ADN ribosómico de AMF, que abarca las regiones parciales de SSU, ITS1, 5.8S, ITS2 y LSU. Se utilizarán primers SSUmAf/LSUmAr y SSUmCf/LSUmBr, siguiendo el protocolo establecido por (Corazon-Guivin et al., 2019). Los productos de PCR se separarán en un gel de agarosa al 1,2%, se visualizarán y registrarán mediante un sistema de documentación de geles ChemiDoc (BIORAD). Los fragmentos amplificados serán secuenciados por Macrogen Inc. (Seúl, Corea del Sur), y las secuencias resultantes se depositarán en GenBank, para su posterior análisis filogénico.
+
+**Análisis filogenético **
+
+Se generarán dos conjuntos de alineamientos a partir de secuencias de hongos micorrízicos arbusculares (SSU parcial, región ITS y LSU parcial). Estas secuencias se alinearan con otras disponibles en GenBank utilizando el programa ClustalX Larkin et al., (2007) con los parámetros predeterminados. Los alineamientos obtenidos serán editados manualmente en BioEdit para mejorar la calidad. Finalmente, se realizará un ajuste en todas las secuencias, eliminando los nucleótidos de las extremidades (5’ y 3’), con el fin de estandarizar su longitud y asegurar la comparabilidad con las secuencias generadas (Corazon-Guivin et al., 2019).
+
+## Cronograma de actividades
 
 
-# REFERENCIAS BIBLIOGRAFICAS 
+# Referencias bibliográficas 
 
-- Esquivel-Quispe, R. (2020). Propagación de hongos micorrizógenos arbusculares nativos y su influencia en la producción de maíz Amiláceo en Paquecc-Ayacucho. Primera parte: Propagación en cultivos asociados en invernadero. Journal of the Selva Andina Biosphere, 8(1), 42-52.
-- Gadea, P., & Peña, W. (2013). La importancia de la relación entre las micorrizas arbusculares y el fósforo en nuestros suelos. Repertorio Científico, 16(1), Article 1. https://doi.org/10.22458/rc.v16i1.595
-- Lara-Capistrán, L., Zulueta-Rodríguez, R., Reyes-Pérez, J. J., Murillo-Amador, B., Ledea-Rodríguez, J. L., & Hernández-Montiel, L. G. (2021). Diversidad de hongos micorrízicos arbusculares asociados a calabaza italiana (Cucurbita pepo L.) bajo acolchado plástico en campo. REVISTA TERRA LATINOAMERICANA, 39. https://doi.org/10.28940/terra.v39i0.834
+Brundrett M., Melville L., Peterson L. (1994) Practical methods in mycorrhizal research. Mycologue Publications, University of Guelph, Guelph, Ontario, Canada.
 
+Błaszkowski J. (2012) Glomeromycota. W. Szafer Institute of Botany, Polish Academy of Sciences, Kraków.
 
+Koske R.E., Tessier B. (1983) A convenient, permanent slide mounting medium. – Mycological Society American Newsletters 34: 59.
+https://doi.org/10.1186/s12859-020-03704-1
 
+Aguila, S. R.-D., De la Sota-Ricaldi, A. M., Corazon-Guivin, M. A., & López-García, Á. (2022). Phylogenetic Diversity of Arbuscular Mycorrhizal Fungal Communities Increases with Crop Age in Coffea arabica Plantations. Journal of Soil Science and Plant Nutrition, 22(3), 3291-3303. https://doi.org/10.1007/s42729-022-00887-9
 
+Aguirre-Dugua, X., Barrera-Redondo, J., Gasca-Pineda, J., Vázquez-Lobo, A., López-Camacho, A., Sánchez-de la Vega, G., Castellanos-Morales, G., Scheinvar, E., Aguirre-Planter, E., Lira-Saade, R., & Eguiarte, L. E. (2023). Population Genomics of Domesticated Cucurbita ficifolia Reveals a Recent Bottleneck and Low Gene Flow with Wild Relatives. Plants, 12(23), Article 23. https://doi.org/10.3390/plants12233989
 
+Ahammed, G. J., & Hajiboland, R. (2024). Introduction to Arbuscular Mycorrhizal Fungi and Higher Plant Symbiosis: Characteristic Features, Functions, and Applications. En G. J. Ahammed & R. Hajiboland (Eds.), Arbuscular Mycorrhizal Fungi and Higher Plants: Fundamentals and Applications (pp. 1-17). Springer Nature. https://doi.org/10.1007/978-981-99-8220-2_1
 
+Chávez-Hernández, C. G., Barrera Aguilar, C. C., Téllez Espinosa, G. J., Chimal-Sánchez, E., García-Sánchez, R., Chávez-Hernández, C. G., Barrera Aguilar, C. C., Téllez Espinosa, G. J., Chimal-Sánchez, E., & García-Sánchez, R. (2021). Colonización micorrízica y comunidades de hongos micorrizógenos arbusculares en plantas medicinales del bosque templado “Agua Escondida”, Taxco, Guerrero, México. Scientia fungorum, 51. https://doi.org/10.33885/sf.2021.51.1325
 
+Corazon-Guivin, M. A., Cerna-Mendoza, A., Guerrero-Abad, J. C., Vallejos-Tapullima, A., Carballar-Hernández, S., da Silva, G. A., & Oehl, F. (2019). Nanoglomus plukenetiae, a new fungus from Peru, and a key to small-spored Glomeraceae species, including three new genera in the “Dominikia complex/clades”. Mycological Progress, 18(12), 1395-1409. https://doi.org/10.1007/s11557-019-01522-1
 
+Corazon-Guivin, M. A., Vallejos-Tapullima, A., Sota-Ricaldi, A. M. de la, Cerna-Mendoza, A., Guerrero-Abad, J. C., Santos, V., Silva, G. A. da, & Oehl, F. (2021). Acaulospora flava, a new arbuscular mycorrhizal fungus from Coffea arabica and Plukenetia volubilis plantations at the sources of the Amazon river in Peru. Journal of Applied Botany and Food Quality, 94, 116-123. https://doi.org/10.5073/JABFQ.2021.094.014
 
+Esquivel-Quispe, R. (2020). Propagación de hongos micorrizógenos arbusculares nativos y su influencia en la producción de maíz Amiláceo en Paquecc-Ayacucho. Primera parte: Propagación en cultivos asociados en invernadero. Journal of the Selva Andina Biosphere, 8(1), 42-52.
+
+Larkin, M. A., Blackshields, G., Brown, N. P., Chenna, R., McGettigan, P. A., McWilliam, H., Valentin, F., Wallace, I. M., Wilm, A., Lopez, R., Thompson, J. D., Gibson, T. J., & Higgins, D. G. (2007). Clustal W and Clustal X version 2.0. Bioinformatics, 23(21), 2947-2948. https://doi.org/10.1093/bioinformatics/btm404
+
+Lu, Y., Yan, Y., Qin, J., Ou, L., Yang, X., Liu, F., & Xu, Y. (2023). Arbuscular mycorrhizal fungi enhance phosphate uptake and alter bacterial communities in maize rhizosphere soil. Frontiers in Plant Science, 14. https://doi.org/10.3389/fpls.2023.1206870
+
+McGONIGLE, T. P., Miller, M. H., Evans, D. G., Fairchild, G. L., & Swan, J. A. (1990). A new method which gives an objective measure of colonization of roots by vesicular—Arbuscular mycorrhizal fungi. New Phytologist, 115(3), 495-501. https://doi.org/10.1111/j.1469-8137.1990.tb00476.x
+
+Noreen, S., Yaseen, T., Iqbal, J., Abbasi, B. A., Farouk Elsadek, M., Eldin, S. M., Ijaz, S., & Ali, I. (2023). Morphological and Molecular Characterizations of Arbuscular Mycorrhizal Fungi and Their Influence on Soil Physicochemical Properties and Plant Nutrition. ACS Omega, 8(36), 32468-32482. https://doi.org/10.1021/acsomega.3c02489
+
+Pérez C, A., & Peroza C, V. (2013). Micorrizas arbusculares asociadas al pasto angleton (Dichathium aristatum Benth) en fincas ganaderas del municipio de Tolú, Sucre-Colombia. Revista MVZ Córdoba, 18(1), 3362-3369.
+
+Pineda-Lázaro, A. J., Vallejos-Tapullima, A., Hernández-Amasifuen, A. D., Carballar-Hernández, S., Imán-Correa, S., Carvajal-Vallejos, F. M., Ríos-Ramírez, O., & Corazon-Guivin, M. A. (2024). Arbuscular Mycorrhizal Fungi Associated with Myrciaria dubia in the Amazonia Region, Peru. Advances in Agriculture, 2024(1), 9977517. https://doi.org/10.1155/2024/9977517
+
+Restrepo Giraldo, K. J., Montoya Correa, M. I., Henao Jaramillo, P., Gutiérrez, L. A., Molina Guzmán, L. P., Restrepo Giraldo, K. J., Montoya Correa, M. I., Henao Jaramillo, P., Gutiérrez, L. A., & Molina Guzmán, L. P. (2019). Caracterización de hongos micorrízicos arbusculares de suelos ganaderos del trópico alto y trópico bajo en Antioquia, Colombia. Idesia (Arica), 37(1), 35-44. https://doi.org/10.4067/S0718-34292019005000301
+
+Sánchez, J. D. L., Canabal, V. A. G., & Armbrecht, I. (2023). Longitud del micelio y glomalina de micorrizas arbusculares: Agregación del suelo en bosques y agroecosistemas andinos. Acta Agronómica, 71(2), Article 2. https://doi.org/10.15446/acag.v71n2.101536
+
+Sieverding, E. (1991). Vesicular-arbuscular mycorrhiza management in tropical agrosystems. Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ).
+Smith, J. E. (2009). Mycorrhizal Symbiosis (Third Edition). Soil Science Society of America Journal, 73(2), 694-694. https://doi.org/10.2136/sssaj2008.0015br
+
+Tennant, D. (1975). A Test of a Modified Line Intersect Method of Estimating Root Length. Journal of Ecology, 63(3), 995-1001. https://doi.org/10.2307/2258617
+
+Vierheilig, H., Coughlan, A. P., Wyss, U., & Piché, Y. (1998). Ink and Vinegar, a Simple Staining Technique for Arbuscular-Mycorrhizal Fungi. Applied and Environmental Microbiology, 64(12), 5004-5007. https://doi.org/10.1128/AEM.64.12.5004-5007.1998
+
+Wang, M., Wang, Z., Guo, M., Qu, L., & Biere, A. (2023). Effects of arbuscular mycorrhizal fungi on plant growth and herbivore infestation depend on availability of soil water and nutrients. Frontiers in Plant Science, 14. https://doi.org/10.3389/fpls.2023.1101932
+
+Yao, Z., You, F. M., N’Diaye, A., Knox, R. E., McCartney, C., Hiebert, C. W., Pozniak, C., & Xu, W. (2020). Evaluation of variant calling tools for large plant genome re-sequencing. BMC Bioinformatics, 21(1), 360. https://doi.org/10.1186/s12859-020-03704-1

@@ -1,0 +1,46 @@
+---
+title: "Aprendiendo latex"
+format: html
+---
+
+# Markdown
+## Letritas
+
+**Negrita**
+
+
+_Esto es italika_
+
+
+
+
+
+
+
+
+
+# Latex
+
+$Y = \mu + \tau + \epsilon $
+
+
+$X = \frac{-b}{b}$
+
+
+$(HL) : (HL) : \left( \left( \frac{H}{L} \right) \cdot FA \right) \ \text{mm}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
