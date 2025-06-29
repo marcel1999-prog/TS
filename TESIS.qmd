@@ -86,6 +86,18 @@ El muestreo en esta investigación será probabilístico completamente al azar. 
 
 Evaluación  de secuencias (variantes nucleotídicas).
 
+### Operacionalización de las variables
+
+| **Tipo de Variable** | **Variable**                         | **Definición conceptual**                                                                 | **Dimensiones**             | **Indicadores**                            |
+|----------------------|--------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------|
+| **V. Molecular**     | Evaluación de secuencias (variantes nucleotídicas) | Proceso de identificar, analizar y comparar cambios o diferencias en la secuencia de nucleótidos (Yao et al., 2020). | Diversidad genética         | Número y tipo de variantes                  |
+|                      |                                      |                                                                                           | Funcionalidad simbiótica    | % de variantes localizadas en genes         |
+| **V. Morfológicas**  | Frecuencia de esporas                | Cantidad de esporas presentes en una cantidad determinada de suelo (Restrepo Giraldo et al., 2019). | Cantidad de esporas         | Esporas/gramo de suelo                      |
+|                      | Tipos de esporas                     | Forma, tamaño y color (morfotipos)                                                        | Tipo morfológico de esporas | Tipo de espora (morfotipo)                  |
+|                      | Colonización micorrícica             | Proceso en el que los HMA invaden raíces realizando simbiosis (Chávez-Hernández et al., 2021). | Grado de colonización       | % de colonización radicular, n.º de arbúsculos |
+|                      | Longitud de micelio extraradical     | Extensión total de las hifas del hongo en el sustrato (Sánchez et al., 2023).            | Densidad de micelio         | Tamaño del micelio                          |
+|                      | Caracterización morfológica          | Identificación y clasificación de hongos según sus rasgos físicos (Noreen et al., 2023).  | Morfología de esporas       | Tamaño de esporas (µm)                      |
+
 ## Métodos
 
 ### Diseño de la investigación
@@ -128,6 +140,21 @@ Se generarán dos conjuntos de alineamientos a partir de secuencias de hongos mi
 
 ## Cronograma de actividades
 
+
+| **Etapa / Mes**                                                                                      | 08/25 | 09/25 | 10/25 | 11/25 | 12/25 | 01/26 | 02/26 | 03/26 |
+|------------------------------------------------------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Colecta de rizosfera y suelo rizosférico de accesiones de cucurbitáceas                             |  X    |       |       |       |       |       |       |       |
+| Aislamiento de esporas a partir de suelo rizosférico                                                |       |   X   |   X   |       |       |       |       |       |
+| Caracterización morfológica de esporas de suelo rizosférico                                         |       |       |       |   X   |       |       |       |       |
+| Caracterización de estructuras micélicas, esporas y arbúsculos en la rizosfera de las accesiones    |       |       |       |       |   X   |       |       |       |
+| Aislamiento y amplificación de ADN de raíces                                                        |       |       |       |       |       |   X   |       |       |
+| Secuenciamiento de regiones SSU, ITS1, 5.8S, ITS2 y LSU de ADN de raíces                             |       |       |       |       |       |       |   X   |       |
+| Análisis filogenético de secuencias para determinar especies de HMA                                 |       |       |       |       |       |       |       |   X   |
+| Redacción y presentación de informe de tesis                                                        |       |       |       |       |       |       |       |   X   |
+
+## Análisis de datos
+
+El análisis de datos se realizará mediante un Análisis de Varianza (ANOVA), usando el software R, utilizando RStudio como entorno de desarrollo. Además se hará una comparación de medias a través de la prueba de Duncan (P<0,05) (Yang et al., 2024). Además se realizará un Análisis de Varianza Molecular (AMOVA), con el fin de calcular los coeficientes de diferenciación genética entre las diferentes accesiones (Excoffier & Lischer, 2010). 
 
 # Referencias bibliográficas 
 
